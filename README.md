@@ -61,4 +61,4 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/78kohi/78kohi/output/snake.svg" alt="Snake animation" />
-![Github Views](https://github-views.deno.dev/api/badge/78kohi)
+![Views](https://github-views.deno.dev/api/badge/78kohi?style=flat)
