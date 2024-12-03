@@ -29,12 +29,12 @@
   </tr>
   <tr>
     <th>I'm good at</th>
-    <td><code><a href="https://en.wikipedia.org/wiki/HTML"><img alt="HTML 5" title="HTML 5" src="./assets/html.png" height="42"></a> <code><a href="https://www.w3.org/Style/CSS/Overview.en.html"><img alt="CSS 3" title="CSS 3" src="./assets/css.png" height="42"></a></code>
+    <td><code><a href="https://en.wikipedia.org/wiki/HTML"><img alt="HTML 5" title="HTML 5" src="./img/html.png" height="42"></a> <code><a href="https://www.w3.org/Style/CSS/Overview.en.html"><img alt="CSS 3" title="CSS 3" src="./img/css.png" height="42"></a></code>
 </code></td>
   </tr>
   <tr>
     <th>Learning</th>
-    <td><code><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img alt="JavaScript" title="JavaScript" src="./assets/js.png" height="42"></a></code> <code><a href="https://www.python.org/"><img alt="python" title="python" src="./assets/python.png" height="42"></a></code></td>
+    <td><code><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img alt="JavaScript" title="JavaScript" src="./img/js.png" height="42"></a></code> <code><a href="https://www.python.org/"><img alt="python" title="python" src="./img/python.png" height="42"></a></code></td>
   </tr>      
 </table>  
 
