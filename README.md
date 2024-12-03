@@ -61,4 +61,7 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/78kohi/78kohi/output/snake.svg" alt="Snake animation" />
-![Views](https://github-views.deno.dev/api/badge/78kohi?style=flat)
+<br><br>
+<p align="center"
+<i>Thanks for passing by</i></p><br><br>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=78kohi&label=Profile%20views&color=0e75b6&style=flat" alt="78kohi" /> </p>
