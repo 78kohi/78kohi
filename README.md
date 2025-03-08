@@ -19,24 +19,20 @@
 </table>
 
 <br><br>
-<h2 align="left">Languages</h2>
+<h2 align="left">Languages and tools</h2>
 
-<table style="border-collapse: collapse; border: none; width: 100%;">
-  <tr style="border: none;">
-    <th style="border: none; padding: 0; vertical-align: top;">
-      ===</th>
-      <th>Languages</th>
-  </tr>
-  <tr>
-    <th>I'm good at</th>
-    <td><code><a href="https://en.wikipedia.org/wiki/HTML"><img alt="HTML 5" title="HTML 5" src="./img/html.png" height="42"></a> <code><a href="https://www.w3.org/Style/CSS/Overview.en.html"><img alt="CSS 3" title="CSS 3" src="./img/css.png" height="42"></a></code>
-</code></td>
-  </tr>
-  <tr>
-    <th>Learning</th>
-    <td><code><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img alt="JavaScript" title="JavaScript" src="./img/js.png" height="42"></a></code> <code><a href="https://www.python.org/"><img alt="python" title="python" src="./img/python.png" height="42"></a></code></td>
-  </tr>      
-</table>  
+<p>
+      <code><img alt="HTML 5" title="HTML 5" src="./img/html.png" height="40"></code>
+      <code><img alt="CSS 3" title="CSS 3" src="./img/css.png" height="40"></code>
+      <code><img alt="JavaScript" title="JavaScript" src="./img/js.png" height="40"></code>
+      <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript"width="40" height="40"/></code>
+      <code><img src="https://skillicons.dev/icons?i=react"></code>
+      <code><img src="https://skillicons.dev/icons?i=nextjs"></code>
+      <code><img src="https://skillicons.dev/icons?i=bootstrap"></code>
+      <code><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase"width="40"height="40"></code>
+      <code><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></code>
+      <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/></code>
+</p>
 
 <br>
 <h2 align="left">📨 How to reach me</h2>
