@@ -6,10 +6,11 @@
     <td style="border: none; padding: 0; vertical-align: top;">
       <ul style="list-style-type: none; padding-left: 0;">
         <li>🌏 I'm from Indonesia</li>
-        <li>🔭 I’m currently studying front-end development</li>
-        <li>🌱 I’m currently learning JavaScript</li>
-        <li>💬 Ask me about anything tech related, I am happy to help
-        <li>📫 Feel free to contact me on <a href="https://mail.google.com/mail/u/78kohii@gmail.com/#compose">Gmail</a></li>
+        <li>🔭 I’m currently studying fullstack-development</li>
+        <li>🌱 I’m currently making projects</li>
+        <li>💬 Ask me about anything tech related, I am happy to help</li>
+        <li>🧑‍🤝‍🧑 I'm looking for a group to join and make projects together</li>
+        <li>📫 Feel free to contact me on <a href="https://mail.google.com/mail/u/78kohii@gmail.com/#compose">Gmail</a> or <a href="https://discordapp.com/users/599061869142999040">discord</a></li>
       </ul>
     </td>
     <td style="border: none; padding: 0; text-align: right;">
