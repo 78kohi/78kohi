@@ -31,7 +31,7 @@
       <code><img src="https://skillicons.dev/icons?i=nextjs"></code>
       <code><img src="https://skillicons.dev/icons?i=bootstrap"></code>
       <code><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase"width="40"height="40"></code>
-      <code><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></code>
+      <code><img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/></code>
       <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/></code>
 </p>
 
